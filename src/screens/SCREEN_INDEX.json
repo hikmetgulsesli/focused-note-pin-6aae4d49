@@ -1,0 +1,340 @@
+[
+  {
+    "screenId": "4cfa3ccb0b1748ce9741914f364643d8",
+    "title": "Record Editor - Focused Note Pin",
+    "componentName": "RecordEditorFocusedNotePin",
+    "file": "src/screens/RecordEditorFocusedNotePin.tsx",
+    "buttons": 12,
+    "inputs": 2,
+    "links": 1,
+    "actions": [
+      {
+        "id": "help-1",
+        "kind": "button",
+        "label": "Help",
+        "index": 0
+      },
+      {
+        "id": "settings-2",
+        "kind": "button",
+        "label": "Settings",
+        "index": 1
+      },
+      {
+        "id": "close-3",
+        "kind": "button",
+        "label": "Close",
+        "index": 2
+      },
+      {
+        "id": "close-4",
+        "kind": "button",
+        "label": "Close",
+        "index": 3
+      },
+      {
+        "id": "bold-5",
+        "kind": "button",
+        "label": "Bold",
+        "index": 4
+      },
+      {
+        "id": "italic-6",
+        "kind": "button",
+        "label": "Italic",
+        "index": 5
+      },
+      {
+        "id": "bullet-list-7",
+        "kind": "button",
+        "label": "Bullet List",
+        "index": 6
+      },
+      {
+        "id": "numbered-list-8",
+        "kind": "button",
+        "label": "Numbered List",
+        "index": 7
+      },
+      {
+        "id": "code-block-9",
+        "kind": "button",
+        "label": "Code Block",
+        "index": 8
+      },
+      {
+        "id": "attach-file-10",
+        "kind": "button",
+        "label": "Attach File",
+        "index": 9
+      },
+      {
+        "id": "cancel-11",
+        "kind": "button",
+        "label": "Cancel",
+        "index": 10
+      },
+      {
+        "id": "save-record-12",
+        "kind": "button",
+        "label": "Save Record",
+        "index": 11
+      },
+      {
+        "id": "focused-note-pin-1",
+        "kind": "link",
+        "label": "Focused Note Pin",
+        "href": "#",
+        "index": 0
+      }
+    ]
+  },
+  {
+    "screenId": "d9140f606af64ccbad5e1d6445d2669a",
+    "title": "Insights - Focused Note Pin",
+    "componentName": "InsightsFocusedNotePin",
+    "file": "src/screens/InsightsFocusedNotePin.tsx",
+    "buttons": 5,
+    "inputs": 0,
+    "links": 8,
+    "actions": [
+      {
+        "id": "create-record-1",
+        "kind": "button",
+        "label": "Create Record",
+        "index": 0
+      },
+      {
+        "id": "settings-2",
+        "kind": "button",
+        "label": "Settings",
+        "index": 1
+      },
+      {
+        "id": "filter-3",
+        "kind": "button",
+        "label": "Filter",
+        "index": 2
+      },
+      {
+        "id": "export-4",
+        "kind": "button",
+        "label": "Export",
+        "index": 3
+      },
+      {
+        "id": "more-horiz-5",
+        "kind": "button",
+        "label": "More Horiz",
+        "index": 4
+      },
+      {
+        "id": "records-1",
+        "kind": "link",
+        "label": "Records",
+        "href": "#",
+        "index": 0
+      },
+      {
+        "id": "editor-2",
+        "kind": "link",
+        "label": "Editor",
+        "href": "#",
+        "index": 1
+      },
+      {
+        "id": "insights-3",
+        "kind": "link",
+        "label": "Insights",
+        "href": "#",
+        "index": 2
+      },
+      {
+        "id": "settings-4",
+        "kind": "link",
+        "label": "Settings",
+        "href": "#",
+        "index": 3
+      },
+      {
+        "id": "support-5",
+        "kind": "link",
+        "label": "Support",
+        "href": "#",
+        "index": 4
+      },
+      {
+        "id": "records-6",
+        "kind": "link",
+        "label": "Records",
+        "href": "#",
+        "index": 5
+      },
+      {
+        "id": "editor-7",
+        "kind": "link",
+        "label": "Editor",
+        "href": "#",
+        "index": 6
+      },
+      {
+        "id": "insights-8",
+        "kind": "link",
+        "label": "Insights",
+        "href": "#",
+        "index": 7
+      }
+    ]
+  },
+  {
+    "screenId": "d5193d783a6d4a689875838f21805827",
+    "title": "Record Operations - Focused Note Pin",
+    "componentName": "RecordOperationsFocusedNotePin",
+    "file": "src/screens/RecordOperationsFocusedNotePin.tsx",
+    "buttons": 14,
+    "inputs": 1,
+    "links": 8,
+    "actions": [
+      {
+        "id": "create-record-1",
+        "kind": "button",
+        "label": "Create Record",
+        "index": 0
+      },
+      {
+        "id": "create-2",
+        "kind": "button",
+        "label": "Create",
+        "index": 1
+      },
+      {
+        "id": "settings-3",
+        "kind": "button",
+        "label": "Settings",
+        "index": 2
+      },
+      {
+        "id": "help-4",
+        "kind": "button",
+        "label": "Help",
+        "index": 3
+      },
+      {
+        "id": "filter-5",
+        "kind": "button",
+        "label": "Filter",
+        "index": 4
+      },
+      {
+        "id": "sort-6",
+        "kind": "button",
+        "label": "Sort",
+        "index": 5
+      },
+      {
+        "id": "push-pin-7",
+        "kind": "button",
+        "label": "Push Pin",
+        "index": 6
+      },
+      {
+        "id": "push-pin-8",
+        "kind": "button",
+        "label": "Push Pin",
+        "index": 7
+      },
+      {
+        "id": "push-pin-9",
+        "kind": "button",
+        "label": "Push Pin",
+        "index": 8
+      },
+      {
+        "id": "retry-loading-10",
+        "kind": "button",
+        "label": "Retry Loading",
+        "index": 9
+      },
+      {
+        "id": "open-in-editor-11",
+        "kind": "button",
+        "label": "Open in Editor",
+        "index": 10
+      },
+      {
+        "id": "close-preview-12",
+        "kind": "button",
+        "label": "Close Preview",
+        "index": 11
+      },
+      {
+        "id": "push-pin-13",
+        "kind": "button",
+        "label": "Push Pin",
+        "index": 12
+      },
+      {
+        "id": "edit-full-14",
+        "kind": "button",
+        "label": "Edit Full",
+        "index": 13
+      },
+      {
+        "id": "records-1",
+        "kind": "link",
+        "label": "Records",
+        "href": "#",
+        "index": 0
+      },
+      {
+        "id": "editor-2",
+        "kind": "link",
+        "label": "Editor",
+        "href": "#",
+        "index": 1
+      },
+      {
+        "id": "insights-3",
+        "kind": "link",
+        "label": "Insights",
+        "href": "#",
+        "index": 2
+      },
+      {
+        "id": "settings-4",
+        "kind": "link",
+        "label": "Settings",
+        "href": "#",
+        "index": 3
+      },
+      {
+        "id": "support-5",
+        "kind": "link",
+        "label": "Support",
+        "href": "#",
+        "index": 4
+      },
+      {
+        "id": "records-6",
+        "kind": "link",
+        "label": "Records",
+        "href": "#",
+        "index": 5
+      },
+      {
+        "id": "editor-7",
+        "kind": "link",
+        "label": "Editor",
+        "href": "#",
+        "index": 6
+      },
+      {
+        "id": "insights-8",
+        "kind": "link",
+        "label": "Insights",
+        "href": "#",
+        "index": 7
+      }
+    ]
+  }
+]
