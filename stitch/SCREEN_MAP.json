@@ -1,0 +1,29 @@
+[
+  {
+    "screenId": "4cfa3ccb0b1748ce9741914f364643d8",
+    "name": "Record Editor - Focused Note Pin",
+    "type": "form",
+    "description": "Record Editor - Focused Note Pin screen",
+    "surfaceIds": [
+      "SURF_RECORD_EDITOR"
+    ]
+  },
+  {
+    "screenId": "d9140f606af64ccbad5e1d6445d2669a",
+    "name": "Insights - Focused Note Pin",
+    "type": "app-screen",
+    "description": "Insights - Focused Note Pin screen",
+    "surfaceIds": [
+      "SURF_INSIGHTS"
+    ]
+  },
+  {
+    "screenId": "d5193d783a6d4a689875838f21805827",
+    "name": "Record Operations - Focused Note Pin",
+    "type": "app-screen",
+    "description": "Record Operations - Focused Note Pin screen",
+    "surfaceIds": [
+      "SURF_RECORD_OPERATIONS"
+    ]
+  }
+]
